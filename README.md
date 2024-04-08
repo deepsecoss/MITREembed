@@ -1,7 +1,7 @@
 # MITREembed
 Map MITRE attack to n-dimensional embeddings and vise-versa.
 
-While there are many projects that are looking at SIGMA rules and resulting alerts mapping to MITRE:
+While there are many projects that are looking at SIGMA, Splunk, Snort IDS rule, yaml, python, etc wriring and mapping to MITRE:
 a) they could probably benefit from more visibility
 b) they do not then map to a deep learning-based anomaly detection
 
