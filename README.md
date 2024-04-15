@@ -11,7 +11,7 @@ One approach might be to have examples from Skidway saved for use in testing and
 
 We could then focus on educating individuals on how to do the shared vocab between a deep learning anomaly member and MITRE.  
 
-<p> Proposed Workflow** <br>
+<p> Proposed Workflow <br>
   
 ![image](https://github.com/deepsecoss/MITREembed/assets/7229755/b2437797-4055-4e80-b021-58ffe003551d)
 
