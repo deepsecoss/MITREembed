@@ -38,7 +38,7 @@ MITREembed consists of several components that work together to map detection da
 - Designed for local installation, ensuring data privacy and security.
 - Provides a user-friendly interface for cybersecurity analysts to interact with the system.
 
-### **RAG: The Foundation of MITREembed**
+## **RAG: The Foundation of MITREembed**
 
 Retrieval-Augmented Generation (RAG) is the backbone of MITREembed, combining Large Language Models (LLMs) with vector databases to deliver contextually accurate and evidence-based insights. This foundational technology ensures the system provides actionable answers grounded in authoritative sources like MITRE ATT&CK techniques and cybersecurity regulations.
 
@@ -49,7 +49,6 @@ Retrieval-Augmented Generation (RAG) is the backbone of MITREembed, combining La
 - **Empowerment**: Enhances decision-making by automating tedious tasks and providing detailed, cross-referenced answers.
 
 RAG enables MITREembed to dynamically adapt to new regulations, detection frameworks, and emerging cybersecurity needs, transforming it into an intelligent and transparent advisor for cybersecurity analysts.
-
 
 ## Example Use Case
 
@@ -81,7 +80,7 @@ RAG enables MITREembed to dynamically adapt to new regulations, detection framew
 - Optimize embeddings for faster query responses.
 
 ## License
-MITREembed is released under GNU General Public License (GPL) v3.
+MITREembed is released under a Apache License.
 
 ## Contributions
 We welcome contributions to expand the capabilities of MITREembed. Please submit pull requests or reach out to the maintainers for more information.
